@@ -6,7 +6,7 @@ import {Owner} from "../src/Owner.sol";
 
 contract DeplooyOwner is Script {
     Owner public owner;
-3
+
     function setUp() public {}
 
     function run() public {

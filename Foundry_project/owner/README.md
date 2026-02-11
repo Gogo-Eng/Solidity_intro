@@ -64,3 +64,8 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+Smart contract account Foundry developement arc chain: 0x387d942E0772bf0A41511523FB197aE914F34D5D
+
+Smart contract account Foundry developement lisk chain:
+0x387d942E0772bf0A41511523FB197aE914F34D5D
