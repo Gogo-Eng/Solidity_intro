@@ -11,3 +11,4 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
+Smart contract account : 0x8853870BC6DD6ed10427cb6d9B283A187EeE41B1
